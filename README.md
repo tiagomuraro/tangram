@@ -10,7 +10,7 @@ By adding the Tangram Library to Sketch, you can easily insert any symbol and kn
 Just follow the instructions below:
 ### Step 1 - Sync the Library with Google Drive
 Use [Google Drive File Stream](https://support.google.com/a/answer/7491144?hl=en) to sync tangram-gui-pack.sketch from the Product Design folder.
-![Drive Folder](https://i.imgur.com/xeR7hRK.png)
+![Drive Folder](https://i.imgur.com/YcYH4Gn.png)
 
 * If you need access to the Team Drive, ask for help in #design-produto on Slack.
 * Right-click on the file to make it available offline for better reliability.
