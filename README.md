@@ -17,7 +17,7 @@ Use [Google Drive File Stream](https://support.google.com/a/answer/7491144?hl=en
 * Don’t just download the file from Google Drive. Do use the synced version to ensure you’re always up-to-date.
 
 ### Step 2 - Link the Library in Sketch
-![Preferences](https://i.imgur.com/4dB2BZ8.png)
+![Preferences](https://i.imgur.com/Hb8EX6d.png)
 
 ### Step 3 - Begin using the Tangram Library
 ![Enjoy](https://i.imgur.com/xqk1Ord.png)
