@@ -21,3 +21,22 @@ Use [Google Drive File Stream](https://support.google.com/a/answer/7491144?hl=en
 
 ### Step 3 - Begin using the Tangram Library
 ![Enjoy](https://i.imgur.com/xqk1Ord.png)
+
+## Plugins to improve your workflow
+There are some cool and useful plugins that you can use to improve your workflow. Some of them are listed bellow:
+
+#### Sketch Palletes
+A Sketch plugin for exporting and importing fill presets. It supports colors, gradients, and Pattern fills.
+https://github.com/andrewfiorillo/sketch-palettes
+
+#### Skecth TextStyles
+A Sketch plugin that lets you import & export text styles throughout different Sketch documents.
+https://github.com/nilshoenson/shared-text-styles
+
+#### Auto-Layout by Anima
+Auto-Layout is a plugin for Sketch that enables designers to design fully responsive artboards.
+https://github.com/AnimaApp/Auto-Layout
+
+#### Runner
+Runner helps you to get around Sketch quicker by giving you an intuitive interface to supercharge your daily workflow. Stop searching through your menu & start running commands directly from your keyboard.
+http://sketchrunner.com/
